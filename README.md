@@ -8,9 +8,8 @@ Welcome to my GitHub profile!
   
 - 🏞️ I’m passionate about hiking and exploring the great outdoors.
   
-- 💻 I work with React, TypeScript, and Python for automation projects.
+- 💻 I build with ai.
   
-- 🔗 Currently diving into the world of blockchain technology.
 
 Feel free to reach out and chat with me about technology, automation, or just to share your favorite camping spots! 🌟
 
